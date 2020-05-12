@@ -1,4 +1,5 @@
 Process Flow of the R script
+  
   Downloads the data set into datasciencecoursera folder on the local desktop (existing files are overwritten by default)
   Checks whether the file had been unzipped before
   Reads data from all the text files in the UCI HAR folder into different dataframes
@@ -7,6 +8,7 @@ Process Flow of the R script
   Extracts averages into FinalData and extracts it into a txt file
 
 Info abt dataset
+  
   features : 561 rows, 2 columns
   The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ
   activities : 6 rows, 2 columns
